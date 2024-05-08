@@ -1,5 +1,5 @@
 let x = prompt("What is your name?");
-if(x==""){
+if(!x){
   alert("Welcome Mr Anonymous. Good luck on the aim assist.")
 } else{
   
